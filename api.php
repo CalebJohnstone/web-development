@@ -256,7 +256,7 @@
 
             $request_headers = array(
                 "Content-Type:" . "application/x-www-form-urlencoded",
-                "Authorization:" . "Basic ZjVmYjAxMzRlMDI4NDA5NzkyN2ZjYWNhNDEzZTIyNmM6ZDU3YzRlMGFkYWIyNGU5YzgwNWNkYjA4YzJlOWQyMDY="
+                "Authorization:" . ""
             );
 
             //return the transfer as a string
